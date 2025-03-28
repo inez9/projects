@@ -1,4 +1,4 @@
-# ArrayDeque61B [https://github.com/inez9/projects/blob/main/ArrayDeque61B%20(1).java]
+[ArrayDeque61B](https://github.com/inez9/projects/blob/main/ArrayDeque61B%20(1).java)
 
 This project implements a double-ended queue (deque) data structure using a resizing array in Java. It's named `ArrayDeque61B` likely to align with specific course or project naming conventions (e.g., "61B").
 
