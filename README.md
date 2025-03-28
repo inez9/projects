@@ -1,4 +1,4 @@
-###Welcom! These are the CS projects I have wokred on, I still need to import some over so please be patient!
+###Welcome! These are the CS projects I have wokred on, I still need to import some over so please be patient!
 
 
 [ArrayDeque61B](https://github.com/inez9/projects/blob/main/ArrayDeque61B%20(1).java)
